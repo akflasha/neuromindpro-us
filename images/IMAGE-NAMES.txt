@@ -1,0 +1,50 @@
+LOCAL IMAGE FILES — REPLACE ONLY THESE FILES
+
+Keep the filenames exactly the same.
+
+hero.webp
+  Main hero/product image.
+
+what-is.webp
+  Image used in the "What Is" section.
+
+ugc-1.webp
+ugc-2.webp
+ugc-3.webp
+ugc-4.webp
+  Four UGC/customer-review strip images.
+
+reviewer-1.webp
+reviewer-2.webp
+reviewer-3.webp
+  Three customer/reviewer profile images.
+
+package-2-bottles.webp
+  2-bottle package image.
+
+package-6-bottles.webp
+  6-bottle BEST OFFER package image.
+
+package-3-bottles.webp
+  3-bottle package image.
+
+guarantee.webp
+  Money-back guarantee badge.
+
+certification-badges.webp
+  Quality / GMP / Made in USA / trust badge strip.
+
+favicon.ico
+  Browser favicon.
+
+
+HOW TO USE FOR A NEW PRODUCT
+
+1. Keep the HTML file and images folder together.
+2. Replace the images inside /images.
+3. Keep EVERY filename exactly the same.
+4. You do NOT need to edit image URLs in the HTML.
+5. Replace the {{PLACEHOLDER}} content in the HTML for the new product.
+6. Set {{CANONICAL_URL}} to the final page/domain.
+7. Set {{ORDER_URL}} to the exact checkout/affiliate link.
+8. Keep the visible rating and AggregateRating schema consistent.
